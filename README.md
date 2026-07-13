@@ -15,10 +15,19 @@ The project was structured into two main functional areas to ensure comprehensiv
 * **Connected User**
     * Home page, New Article, Settings, User, and Article pages.
 
+![Test Suite Decomposition](Test%20Suite%20Decomposition.png)
+
 ### 2. Test Execution
 * **Methodology:** Manual testing execution following strict functional requirements.
 * **Results:** 100% pass rate achieved for identified critical test paths.
 
+![Test Execution Results](Test%20Run%20&%20Tesst%20Results%20Conduit.png)
+
 ## Documentation
 * **Requirements:** Documented via Jira to track work items and project scope.
+
+![Jira Documentation](Jira%20Conduit.png)
+
 * **Test Cases:** Managed and executed within TestRail, detailing steps and expected results for all scenarios.
+
+![TestRail Overview](TestRail%20overview.png)
